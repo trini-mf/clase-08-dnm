@@ -18,15 +18,6 @@
         "description": "Nuevas aventuras del inspector francés Jacques Clouseau, inepto detective que en esta ocasión intentará resolver el caso de una joven que ha sido acusada de asesinar a su amante."
     },
     {
-        "name": "Inspector Clouseau",
-        "year": 1968,
-        "director": "Bud Yorkin",
-        "pic_sm": "pelicula3chica.jpg",
-        "pic_lg": "pelicula3grande.jpg",
-        "trailer": "https://www.youtube.com/watch?v=zj9Jwi3ohqE",
-        "description": "Nuevas aventuras del inspector francés Jacques Clouseau, inepto detective que en esta ocasión intentará resolver un caso en el que una doncella es acusada de asesinar a su amante."
-    },
-    {
         "name": "El regreso de la Pantera Rosa",
         "year": 1975,
         "director": "Blake Edwards",
