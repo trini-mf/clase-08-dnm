@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="Diseño y nuevos medios" />
+        <title>DNO037</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div class="container">
+            <nav>
+                <p><a href="index.html">Portada</a> <a href="peliculas.html">Películas</a> <a href="ganancias.html" class="active">Ganancias</a></p>
+            </nav>
+            <main>
+                <canvas id="grafico" height="40" width="150">
+                    <!--acá se mete el mapa-->
+                </canvas>
+            </main>
+            <footer>
+                <p><a href="https://github.com/trini-mf">Trinidad Montalbetti</a> <a href="https://github.com/trini-mf/clase-08-dnm">DNO037</a></p>
+            </footer>
+        </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.2.0/dist/chart.min.js"></script>
+    <script>
+var ctx = document.getElementById('grafico').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['La Pantera Rosa', 'El Nuevo Caso del Inspector Clouseau', 'El Regreso de la Pantera Rosa', 'La Pantera Rosa Ataca de Nuevo', 'La Venganza de la Pantera Rosa', 'Tras la Pista de la Pantera Rosa', 'La Maldición de la Pantera Rosa'],
+        datasets: [{
+            label: 'Ganancias en Millones de USD',
+            data: [10.9, 12.3, 75, 75, 49.5, 9.1, 4.5],
+            backgroundColor: 'rgba(247, 191, 190)',
+            borderWidth: 5
+        }]
+    },
+    options: {
+        scales: {
+            y: {
+                beginAtZero: true
+            }
+        }
+    }
+});
+</script>
+    </body>
+</html>
