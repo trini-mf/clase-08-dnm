@@ -1,0 +1,75 @@
+[
+    {
+        "name": "La Pantera Rosa",
+        "year": 1964,
+        "director": "Shawn Levy",
+        "pic_sm": "pelicula1chica.jpg",
+        "pic_lg": "pelicula1grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=er7sxi-ur1A",
+        "description": "Alguien ha matado al entrenador de fútbol Yves Gluant (Jason Statham) y le ha robado un valioso diamante: la Pantera Rosa. Tras la pista de los delincuentes, siguiendo órdenes de su superior Dreyfus (Kevin Kline), se lanza el inspector Jacques Clouseau (Steve Martin)."
+    },
+    {
+        "name": "El Nuevo Caso del Inspector Clouseau",
+        "year": 1964,
+        "director": "Blake Edwards",
+        "pic_sm": "pelicula2chica.jpg",
+        "pic_lg": "pelicula2grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=TPi018iGnT8",
+        "description": "Nuevas aventuras del inspector francés Jacques Clouseau, inepto detective que en esta ocasión intentará resolver el caso de una joven que ha sido acusada de asesinar a su amante."
+    },
+    {
+        "name": "Inspector Clouseau",
+        "year": 1968,
+        "director": "Bud Yorkin",
+        "pic_sm": "pelicula3chica.jpg",
+        "pic_lg": "pelicula3grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=zj9Jwi3ohqE",
+        "description": "Nuevas aventuras del inspector francés Jacques Clouseau, inepto detective que en esta ocasión intentará resolver un caso en el que una doncella es acusada de asesinar a su amante."
+    },
+    {
+        "name": "El regreso de la Pantera Rosa",
+        "year": 1975,
+        "director": "Blake Edwards",
+        "pic_sm": "pelicula4chica.jpg",
+        "pic_lg": "pelicula4grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=a1AMga5GaEQ",
+        "description": "El famoso diamante La Pantera Rosa es robado mientras se encuentra expuesto en el Museo Nacional de Lugash. Inmediatamente se ponen en marcha los servicios secretos y la policia del Estado, que tras grandes deliberacines, deciden que la única persona capaz de recuperar la joya es el inspector Clouseau (Peter Sellers). Este, que ha sido degradado a la categoria de guardiapor las últimas meteduras de pata que ha tenido, es rehabilitado y enviado a Lugash, donde examina el lugar de los hechos y llega a la conclusión de que el ladrón no puede ser otro que Sir Charles Litton, apodado el Fantasma, un aristocrata famoso por sus robos, que vive placidamente en la Costa Azul."
+    },
+    {
+        "name": "La Pantera Rosa ataca de nuevo",
+        "year": 1976,
+        "director": "Blake Edwards",
+        "pic_sm": "pelicula5chica.jpg",
+        "pic_lg": "pelicula5grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=VVnX-cPXpFA",
+        "description": "Mientras el jefe del inspector Clouseau, Paul Dreyfus, se recupera paulatinamente de una crisis nerviosa provocada por su temible subordinado, éste decide acudir al hospital a visitar a su mando superior. Al verle en el hospital, Dreyfus, al borde de la locura, jura que en lo sucesivo dedicará su vida al crimen y la venganza."
+    },
+    {
+        "name": "La venganza de la Pantera Rosa",
+        "year": 1978,
+        "director": "Blake Edwards",
+        "pic_sm": "pelicula6chica.jpg",
+        "pic_lg": "pelicula6grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=M81t8Wbnhyk",
+        "description": "El inspector Jacques Clousseau, condecorado por sus servicios a Francia por el mismo presidente de la Nación, se enfrenta, por primera vez, con la mafia. El jefe de esta organización en Francia, Douvier, quiere acabar con el inspector definitivamente. Este asesinato puede servir también, para que el Padrino de la mafia en Estados Unidos deje de criticar la falta de acción de la organización en Francia. Guy Algo, el teniente de Douvier, piensa en lo fácil que puede ser deshacerse de Clousseau pero, en realidad, la empresa se presenta más difícil de lo previsto."
+    },
+    {
+        "name": "Tras la pista de la Pantera Rosa'",
+        "year": 1982,
+        "director": "Blake Edwards",
+        "pic_sm": "pelicula7chica.jpg",
+        "pic_lg": "pelicula7grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=uFnJhZa94wA",
+        "description": "El fabuloso diamante La Pantera Rosa ha sido robado de la Camara Acorazada de Joyas de Lugash. El inspector jefe, Jacques Clouseau, es asignado al caso por el explícito deseo del presidente Haleesh, lo que deja totalmente consternado al inspector jefe Dreyfus.
+"
+    },
+    {
+        "name": "La maldición de la Pantera Rosa",
+        "year": 1983,
+        "director": "Blake edwards",
+        "pic_sm": "pelicula8chica.jpg",
+        "pic_lg": "pelicula8grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Gaw3aiGsjSw",
+        "description": "El inspector Clouseau ha desaparecido y el mejor detective del mundo es requerido para encontrarle. Un ordenador será el encargado de seleccionar a ese detective, pero es boicoteado y la misión le es encargada al peor detective del mundo."
+    }
+]
